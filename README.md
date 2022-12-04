@@ -2,9 +2,9 @@
 
 I am currently a Data Scientist at Generali Deutschland in the group "Analytics, Data and Artificial Intelligence". Previously, I was a Master's student at the University of Southern California (Fight On! :red_circle: :yellow_circle:) as a Fulbright Scholar, where I graduated in summer 2020.
 
-My main skills are Python, as well as Deep Learning and other Machine Learning but I am constantly trying to expand my knowledge on various tools such as Airflow, Docker, MLFlow, SQL and more. Whenever I am curious about new technology, I try to package it in a fun project that I upload here, which gives me motivation to finish.
+My main skills are Python, as well as Deep Learning and other Machine Learning but I am constantly trying to expand my knowledge on various tools such as Airflow, Docker, MLFlow, SQL and more. Whenever I am curious about new technology, I try to package it in a small project that I upload here, which gives me motivation to finish the project.
 
-In my freetime I like to play the guitar and piano. When possible, I really enjoy travelling to get to know new cultures and languages. Aside from my mother tongue German, I am also fluent in English and Spanish and know the basics in French and Tamil. I'm also a huge sports fan. Fun fact about me: The book "Moneyball" on statistical analysis in Baseball was the main reason that inspired me to look into Data Science.
+In my freetime I like to play the guitar and piano. When possible, I really enjoy travelling to get to know new cultures and languages. In fact, one day I would like to have been to all ~200 countries in the world, but there is still a long way to go... Aside from my mother tongue German, I am also fluent in English and Spanish and know the basics in French. I'm also a huge sports fan. Fun fact about me: The book "Moneyball" on statistical analysis in Baseball was the main reason that inspired me to look into Data Science.
 
 I'm always looking to collaborate on interesting projects and connecting with people around the world, so please feel free to reach out to me over here or through my [LinkedIn profile](https://www.linkedin.com/in/philipp-lukas-schauer-674ba5193/).
 
